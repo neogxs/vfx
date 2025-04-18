@@ -6,3 +6,9 @@
 ||genuine-software2.autodesk.com^
 ||cybercore.vn^
 ||kenh14.vn^
+||s3-w.us-east-1.amazonaws.com^
+||s3.amazonaws.com^
+||learn-alb-1805129156.eu-west-1.elb.amazonaws.com^
+||ec2-34-252-36-118.eu-west-1.compute.amazonaws.com^
+||foundry.com^
+||thefoundry.vision^
