@@ -13,7 +13,7 @@
 ||foundry.com^
 ||thefoundry.vision^
 ||r.cloudfront.net^
-||amazonaws.com^
+||compute-1.amazonaws.com^
 ||any-in-2015.1e100.net^
 ||deploy.static.akamaitechnologies.com^
 ||ip36.ip-54-39-160.net^
