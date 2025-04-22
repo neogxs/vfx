@@ -12,3 +12,8 @@
 ||ec2-34-252-36-118.eu-west-1.compute.amazonaws.com^
 ||foundry.com^
 ||thefoundry.vision^
+||r.cloudfront.net^
+||amazonaws.com^
+||any-in-2015.1e100.net^
+||deploy.static.akamaitechnologies.com^
+||ip36.ip-54-39-160.net^
